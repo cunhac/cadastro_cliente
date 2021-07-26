@@ -6,7 +6,7 @@ Desenvolvimento de uma página de cadastro com dados de clientes, endereços e p
 
 Esta página foi dada como sequência do [desafio 1](https://github.com/cunhac/landing_page_black_friday) no qual foi solicitado para o cliente o cadastro do email para receber a oferta da Black Friday. Agora no desafio 2 foram enviadas as ofertas das três opções de produtos da Mundi Gastrô com o formulário solicitando os dados cadastrais do cliente para a realização da compra.
 
-link da landing page: 
+link da página: https://cunhac.github.io/cadastro_cliente/index.html
 
 <hr>
 
